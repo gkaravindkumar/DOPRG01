@@ -2,7 +2,6 @@
 		include_once('assets/includes/_settings.php');
 		$site['page']['title'] = 'Thank you!';
 		$site['page']['articletitle'] = 'Thank You for Requesting Information From us!';
-		//$site['page']['current']['section'] = '';
 		$site['page']['current']['page'] = 'thankyou';
 		//$site['page']['classes']['body'][] = '';
 
